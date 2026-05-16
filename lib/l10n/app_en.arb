@@ -1,0 +1,12 @@
+/// AppLocalizationEn.arb
+{
+  "appTitle": "MultiTool Hub",
+  "home": "Home",
+  "tools": "Tools",
+  "settings": "Settings",
+  "changeLanguage": "Change Language",
+  "toggleTheme": "Toggle Theme",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "toolDescription": "Powerful and Beautiful Tools"
+}

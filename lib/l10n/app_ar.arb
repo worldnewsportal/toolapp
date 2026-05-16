@@ -1,0 +1,12 @@
+/// AppLocalizationAr.arb
+{
+  "appTitle": "مركز الأدوات المتعددة",
+  "home": "الرئيسية",
+  "tools": "الأدوات",
+  "settings": "الإعدادات",
+  "changeLanguage": "تغيير اللغة",
+  "toggleTheme": "تغيير المظهر",
+  "darkMode": "الوضع الداكن",
+  "lightMode": "الوضع الفاتح",
+  "toolDescription": "أدوات قوية وجميلة"
+}
